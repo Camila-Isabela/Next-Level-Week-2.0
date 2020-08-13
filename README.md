@@ -17,3 +17,6 @@
 
 
 <h2 id="about">🏷 About The Project</h2>
+
+
+<img alt="Github License" src="https://img.shields.io/github/license/Camila-Isabela/Camila-Isabela" />
