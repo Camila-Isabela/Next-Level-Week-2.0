@@ -1,4 +1,4 @@
-<h1 align="center">Next Level Week #1.0 - RocketSeat :rocket:</h1>                                                         
+<h1 align="center">Next Level Week #2.0 - RocketSeat :rocket:</h1>                                                         
 
 <h1 align="center">
 <img src="xxx" style="align-items: center"><br>
